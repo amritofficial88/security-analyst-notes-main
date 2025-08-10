@@ -1,6 +1,6 @@
 # Professional - IBM Cybersecurity Analyst Certification - Notes
 
-Welcome to the IBM Cybersecurity Analyst Professional Certificate Notes repository! This repository contains my handwritten notes from the IBM Cybersecurity Analyst Professional certification program. These notes are intended to serve as a valuable resource for anyone interested in gaining insights into the field of cybersecurity.
+This repository contains my handwritten notes from the IBM Cybersecurity Analyst Professional certification program. These notes are intended to serve as a valuable resource for anyone interested in gaining insights into the field of cybersecurity.
 
 ## Topics Covered
 
